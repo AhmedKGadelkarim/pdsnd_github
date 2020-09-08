@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+Tuesday, September 8 2020.
 
 ### Project Title
-Replace the Project Title
+Udacity project posting on github
 
 ### Description
-Describe what your project is about and what it does
+This project includes posting the usbike_share python project in github using git and doing the workflow steps stated by Udacity
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
+Udacity_us_bikeshare_project_final.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project initiaited by forking the udacity template repo
 

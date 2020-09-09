@@ -16,3 +16,5 @@ Udacity_us_bikeshare_project_final.py
 ### Credits
 This project initiaited by forking the udacity template repo
 
+### Project objective
+to be able to use git effectively and handle to use github remote repositories as well as local repositories

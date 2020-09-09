@@ -3,7 +3,7 @@
 
 # In[8]:
 
-
+# This program is designed to analyse Us bike share data in three cities
 import time
 import pandas as pd
 import numpy as np
